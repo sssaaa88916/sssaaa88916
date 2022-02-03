@@ -2,7 +2,7 @@
 ---
 <a href="mailto:sar6747@naver.com" target="_black"><img src="https://img.shields.io/badge/sar6747@naver.com-62B47A?style=flat-square&logo=Naver&logoColor=white"/></a>
 
-[![solved.ac tier](http://mazassumnida.wtf/api/v2/generate_badge?boj={ssaa889})](https://solved.ac/{ssaa889})
+[![solved.ac tier](http://mazassumnida.wtf/api/generate_badge?boj=ssaa889)](https://solved.ac/ssaa889)
 <img src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right">
 
 
